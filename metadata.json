@@ -1,0 +1,8 @@
+{
+  "name": "Citizen Connect - Nagar Parishad App",
+  "description": "A comprehensive citizen mobile application for raising and tracking municipal complaints like garbage, water supply, and street lights, modeled after the Chandur Railway Connect initiative.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
